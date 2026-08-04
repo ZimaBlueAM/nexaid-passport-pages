@@ -1,0 +1,22 @@
+<svg width="124" height="124" viewBox="0 0 124 124" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g clip-path="url(#clip0_62_25068)">
+    <mask id="mask0_62_25068" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="124" height="124">
+      <path d="M100 0H24C10.7452 0 0 10.7452 0 24V100C0 113.255 10.7452 124 24 124H100C113.255 124 124 113.255 124 100V24C124 10.7452 113.255 0 100 0Z" fill="#18181B"/>
+    </mask>
+    <g mask="url(#mask0_62_25068)">
+      <path d="M100 0H24C10.7452 0 0 10.7452 0 24V100C0 113.255 10.7452 124 24 124H100C113.255 124 124 113.255 124 100V24C124 10.7452 113.255 0 100 0Z" fill="#18181B"/>
+      <ellipse cx="62" cy="119.151" rx="92.2734" ry="21.0703" transform="rotate(-180 62 119.151)" fill="#9f6ffd"/>
+      <text x="62" y="116" text-anchor="middle" fill="white" font-family="Inter, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="0.7">WALLET</text>
+      <path d="M31.2129 20.375L48.0962 24.167V82.9424L31.2129 86.7344V20.375Z" fill="white"/>
+      <path d="M75.9038 24.167L92.7871 20.375V86.7344L75.9038 82.9424V24.167Z" fill="white"/>
+      <rect x="53.5586" y="61.9963" width="16.8833" height="16.8833" transform="rotate(-90 53.5586 61.9963)" fill="white"/>
+      <path d="M70.4414 61.9963L53.5581 61.9963L70.4414 45.113L70.4414 61.9963Z" fill="#9f6ffd"/>
+      <path d="M53.5586 45.1131L70.4419 45.1131L53.5586 61.9963L53.5586 45.1131Z" fill="#bd9df6"/>
+    </g>
+  </g>
+  <defs>
+    <clipPath id="clip0_62_25068">
+      <rect width="124" height="124" fill="white"/>
+    </clipPath>
+  </defs>
+</svg>

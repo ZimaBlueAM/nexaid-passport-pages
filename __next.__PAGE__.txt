@@ -1,0 +1,9 @@
+1:"$Sreact.fragment"
+2:I[70249,["/nexaid-passport/_next/static/chunks/0oi6a4mrnc3r..js","/nexaid-passport/_next/static/chunks/01upapv9cs.d-.js"],"ClientPageRoot"]
+3:I[68479,["/nexaid-passport/_next/static/chunks/0oi6a4mrnc3r..js","/nexaid-passport/_next/static/chunks/01upapv9cs.d-.js","/nexaid-passport/_next/static/chunks/0zs.dm8f2331-.js"],"default"]
+6:I[26751,["/nexaid-passport/_next/static/chunks/0oi6a4mrnc3r..js","/nexaid-passport/_next/static/chunks/01upapv9cs.d-.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/nexaid-passport/_next/static/chunks/0zs.dm8f2331-.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"W3tT8_hfbP13nmbGwiR73"}
+4:{}
+5:"$0:rsc:props:children:0:props:serverProvidedParams:params"
+8:null

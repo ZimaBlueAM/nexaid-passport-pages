@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[57883,["/nexaid-passport/_next/static/chunks/0oi6a4mrnc3r..js","/nexaid-passport/_next/static/chunks/01upapv9cs.d-.js"],"default"]
+3:I[49585,["/nexaid-passport/_next/static/chunks/0oi6a4mrnc3r..js","/nexaid-passport/_next/static/chunks/01upapv9cs.d-.js"],"default"]
+4:[]
+0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"W3tT8_hfbP13nmbGwiR73"}
